@@ -1,6 +1,6 @@
 package dbperson;
 
-//import dbperson.MyModel;
+
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
